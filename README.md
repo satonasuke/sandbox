@@ -2,7 +2,7 @@
 
 ## 今日やる内容
 
-- SourceTree
+- SOURCE TREE
 - コミット
 - ブランチ
 
