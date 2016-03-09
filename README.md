@@ -4,6 +4,6 @@
 
 ## 今日やる内容
 
-- SourceTree
+- Source Tree
 - コミット
 - ブランチ
