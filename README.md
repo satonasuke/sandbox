@@ -7,3 +7,9 @@
 - Source Tree
 - コミット
 - ブランチ
+
+
+## Githubへの登録
+
+ここに行って登録する！
+https://github.com/
